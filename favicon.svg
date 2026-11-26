@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+<title>BETTR TOGETHR — Sun Above the Climb</title>
+<rect x="0" y="0" width="1024" height="1024" rx="217.91" ry="217.91" fill="#5C8299"/>
+<circle cx="510.36" cy="391.07" r="44.24" fill="#E8C978"/>
+<ellipse cx="380.01" cy="390.86" rx="22.94" ry="16.38" transform="rotate(-179.91 380.01 390.86)" fill="#E8C978"/>
+<ellipse cx="428.13" cy="343.55" rx="22.94" ry="16.38" transform="rotate(-149.98 428.13 343.55)" fill="#E8C978"/>
+<ellipse cx="510.36" cy="312.22" rx="22.94" ry="16.38" transform="rotate(-90.00 510.36 312.22)" fill="#E8C978"/>
+<ellipse cx="592.59" cy="343.55" rx="22.94" ry="16.38" transform="rotate(-30.02 592.59 343.55)" fill="#E8C978"/>
+<ellipse cx="628.53" cy="390.86" rx="22.94" ry="16.38" transform="rotate(-0.10 628.53 390.86)" fill="#E8C978"/>
+<path d="M 334.44 660.28 L 689.15 660.28" fill="none" stroke="#FFFFFF" stroke-width="40.96" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 391.27 660.28 L 511.69 564.43 L 635.7 660.28" fill="none" stroke="#FFFFFF" stroke-width="40.96" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
